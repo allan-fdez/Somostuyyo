@@ -10,3 +10,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4f125dd118e9001a
 
 #EXTINF:-1 tvg-id="STYY" group-title="Los 3 chiflafos", T1:E1
 https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f85afe1652fb5001add9fbe/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&architecture=&buildVersion=&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=ca209e88-64e1-11eb-ad61-0242ac110002&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-id="STYY" group-title="Somos tú y yo", T1:E4
+https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5e4f125dd118e9001ab9ee04/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=5.13.0-b5a9d23b0997348f836f00c3fae7a78598f80007&architecture=&buildVersion=&deviceDNT=false&deviceId=6991db99-f046-474a-8425-359fb765c47d&deviceLat=15.4967&deviceLon=-88.0338&deviceMake=Android%2BBrowser&deviceModel=web&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=ca209e88-64e1-11eb-ad61-0242ac110002&userId=&serverSideAds=true
